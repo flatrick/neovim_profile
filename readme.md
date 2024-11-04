@@ -1,35 +1,13 @@
-# Patrik's Dev Environment
+# NeoVIM
 
-## CLI tools
+## Dependencies outside of NeoVim
 
-- dust
-- bat (batcat)
-- broot (br)
-- delta
-- dust
-- eza
-- fd
-- fzf
-- git
-- jq
-- lazygit
-- less
-- NeoVIM (nvim)
-- rare
+- zig compiler
 - ripgrep
-- schemaspy
-- tokei
-- xq
-- yq
+- fd.exe
+- fzf
 
-### Powershell specifics
-
-- PsFzf
-
-### NeoVIM
-
-##### NeoVIM config
+## NeoVIM config
 
 This is my attempt to get started with NeoVim, so we'll see how well it goes :)
-
 
