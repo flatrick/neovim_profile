@@ -3,9 +3,18 @@
 ## Dependencies outside of NeoVim
 
 - [Zig Compiler](https://ziglang.org/download/)
+- [CMake Compiler](https://cmake.org/download/)
 - [ripgrep](https://github.com/BurntSushi/ripgrep)
 - [fd](https://github.com/sharkdp/fd)
 - [fzf](https://github.com/junegunn/fzf)
+
+## Plugins used
+
+- Lazy
+- telescope
+- telescope-fzf-native
+- nvim-treesitter
+- nvim-neotree
 
 ## NeoVIM config
 
