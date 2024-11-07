@@ -21,7 +21,10 @@ git clone https://github.com/flatrick/neovim_profile.git $env:LOCALAPPDATA\nvim
 - telescope
 - telescope-fzf-native
 - nvim-treesitter
-- nvim-neotree
+- neotree
+- mason / mason-lspconfig
+- nvim-web-devicons
+- todo-comments
 
 ## NeoVIM config
 
