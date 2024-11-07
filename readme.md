@@ -1,11 +1,10 @@
 # NeoVIM
 
-How to clone this repo into the config-folder of NeoVIM:
+## How to use a non-default folder for the config
 
 ```powershell
-git clone https://github.com/flatrick/neovim_profile.git $env:LOCALAPPDATA\nvim
+$env:XDG_CONFIG_HOME = "C:\source\github\flatrick\neovim_profile\"
 ```
-
 
 ## Dependencies outside of NeoVim
 
